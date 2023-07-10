@@ -1,0 +1,12 @@
+.logo {
+    font-size: 18px;
+}
+
+.search {
+    box-shadow: 5px 5px 23px rgba(140, 151, 179, 0.21);
+}
+
+.text-search {
+    font-weight: 300;
+    font-size: 10px;
+}
